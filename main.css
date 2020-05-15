@@ -1,0 +1,148 @@
+
+body#index{
+    background-color: #998f66;
+}
+div#capa{
+    width: 945px;
+    height: 165px;
+    margin: auto;
+}
+
+div#topo{
+    background-color:red;
+    width: 945px;
+    height: 165px;
+    margin: auto;
+
+    }
+div#logo{
+    width: 50%;
+    width: 310px;
+    height: 80px;
+    margin-top: 10px;
+    margin-left:165px;
+    display: inline-block;
+    
+}
+div#redessociais{
+    width: 20%;
+    float: right;
+    margin-top: 10px;
+   
+}
+div#menu{
+    background-color:#373737;
+    width: 945px;
+    height: 35px;
+    margin:auto;
+}
+div#menu a{
+    color: white;
+    font-family: arial;
+    font-size: 13px;
+    text-decoration:none;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+div#menu a:hover{
+    color: #d2b12d;
+}
+div.servicos{
+    margin-top: 50px;
+
+}
+img.servicos{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2.servicos{
+    text-shadow: 07px 07px 3px gray ;
+    text-align: center;
+    
+}
+p.servicos{
+    text-align: center;
+    
+}
+
+h1.servicos{
+    text-align: center;
+    font-size:50px ;
+    letter-spacing: 0.3em;
+    word-spacing: 0.5em;
+       
+}
+h2#conteudo1{
+    font-size: 28px;
+    font-family: sans-serif;
+    
+   
+}
+    
+div#conteudo1{
+    width:945px;
+    height:900px;
+    margin: auto;
+    background-color:Gainsboro;
+}
+div#conteudo2{
+    width:945px;
+    height:60px;
+    margin:auto;
+    background-color:rgb(133, 132, 132);
+    margin-bottom: 20px;
+    font-family: Helvetica;
+}
+img.inicio{
+    margin: auto;
+    margin-top:10px;
+    margin-left: 26px;
+    position: relative;
+    
+        
+}
+h1#titulogaleria{
+   font-size: 50px;
+   text-align: center;
+   letter-spacing: 0.3em;
+   word-spacing: 0.5em;
+   text-decoration: underline;
+   color: rgb(73, 73, 73)
+}
+img.imggaleria{
+    float: center;
+    width: 25%;
+    border: thin rgb(104, 1, 1) solid;
+    margin: 2em;
+    padding: 1em;
+}
+
+h2#conteudo1{
+    text-align: center;
+}
+p#conteudo1{
+    text-align: center;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-bottom: 70px;
+    font-size: 15px;
+    
+}
+p#conteudo2{
+    text-align: left;
+    font-size: 13px;
+    
+}
+h1#tituloprincipal{
+    text-align: center;
+    font-size: 45px;
+    color: #e6bd19;
+    text-shadow: 5px 5px 5px black;
+    letter-spacing: 0.2em;
+    word-spacing: 0.2em;
+    margin: auto;
+}
+div.campo{
+    float: center;
+}
